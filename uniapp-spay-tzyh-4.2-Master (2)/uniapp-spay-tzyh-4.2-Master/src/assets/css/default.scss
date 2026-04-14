@@ -1,0 +1,62 @@
+page {
+    background-color: $uni-bg-color;
+    padding-bottom: constant(safe-area-inset-bottom);
+    padding-bottom: env(safe-area-inset-bottom);
+    height: 100%;
+    font-family: Roboto, PingFangSC, -apple-system;
+    box-sizing: border-box;
+}
+
+::v-deep .uni-dialog-title-text {
+    color: $uni-text-color !important;
+}
+
+::v-deep uni-button[type='primary'],
+::v-deep button[type='primary'] {
+    background-color: $uni-color-base !important;
+    &::after {
+        border: none;
+    }
+}
+
+::v-deep button[type='primary'][plain],
+::v-deep uni-button[type='primary'][plain] {
+    border: 1px solid $uni-color-base !important;
+    color: $uni-color-base !important;
+    background-color: transparent !important;
+}
+
+::v-deep uni-button[type='primary'][disabled],
+::v-deep button[type='primary'][disabled] {
+    background-color: $uni-bg-color-disable !important;
+}
+
+uni-button[disabled].text-button,
+button[disabled].text-button {
+    background-color: transparent !important;
+}
+
+uni-button.text-button,
+button.text-button {
+    font-size: 28rpx;
+    display: flex;
+    align-items: center;
+    background-color: $uni-bg-color-inverse;
+    &::after {
+        border: none;
+    }
+}
+
+/* #ifdef H5 */
+
+// 隐藏顶部
+uni-page-head {
+    display: none;
+}
+
+uni-page-head[uni-page-head-type='default'] ~ uni-page-wrapper {
+    height: 100%;
+    height: calc(100% - env(safe-area-inset-top));
+}
+
+/* #endif */

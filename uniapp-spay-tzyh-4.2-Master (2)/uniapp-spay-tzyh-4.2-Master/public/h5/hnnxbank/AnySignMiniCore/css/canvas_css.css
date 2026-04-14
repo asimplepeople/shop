@@ -1,0 +1,183 @@
+
+
+#tmp_canvas {
+	position: absolute;
+	left: 0px; right: 100%;
+	top: 0px;
+	cursor: crosshair;
+}
+
+
+.orange {
+	color: #fef4e9;
+	border: solid 1px #da7c0c;
+	background: #f78d1d;
+	background: -webkit-gradient(linear, left top, left bottom, from(#faa51a),
+		to(#f47a20) );
+	background: -moz-linear-gradient(top, #faa51a, #f47a20);
+	filter: progid : DXImageTransform . Microsoft .
+		gradient(startColorstr = '#faa51a', endColorstr = '#f47a20');
+}
+.orange:hover {
+	background: #f47c20;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f88e11),
+		to(#f06015) );
+	background: -moz-linear-gradient(top, #f88e11, #f06015);
+	filter: progid : DXImageTransform . Microsoft .
+		gradient(startColorstr = '#f88e11', endColorstr = '#f06015');
+}
+
+.orange:active {
+	color: #fcd3a5;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f47a20),
+		to(#faa51a) );
+	background: -moz-linear-gradient(top, #f47a20, #faa51a);
+	filter: progid : DXImageTransform . Microsoft .
+		gradient(startColorstr = '#f47a20', endColorstr = '#faa51a');
+}
+.button {
+	display: inline-block;
+	zoom: 1; /* zoom and *display = ie7 hack for display:inline-block */ *
+	/*display: inline;*/
+    display:table-cell;
+	vertical-align: baseline;
+	margin: 0 2px;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	padding: .5em 2em .55em;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+	-webkit-border-radius: .5em;
+	-moz-border-radius: .5em;
+	border-radius: .5em;
+	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+	-moz-box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+	box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+}
+
+
+#mesWindow{
+
+    z-index:8;
+
+    -webkit-border-radius: .5em;
+    -moz-border-radius:.5em;
+    border-radius:.5em;
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+    -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+    background:#fff;
+    border-radius: .5em;
+
+    width: 80%;
+    position: absolute;
+    left: 10%;
+    top: 30%;
+}
+
+#mesWindowTop{
+    background-color: rgba(147, 152, 168, 0.20);
+    border-bottom:#eee 1px solid;
+    margin-left:4px;
+    padding:3px;
+    font-weight:bold;
+    text-align:center;
+    font-size:12px;
+}
+
+#mesWindowContent{
+    background-color: rgba(147, 152, 168, 0.20);
+    border-bottom: #d6d6d6 1px solid;
+    text-align:center;
+    font-size:12px;
+    padding: 60px 20px 60px 20px
+}
+
+#mesWindow input{
+    text-align:center;
+    font-size:13px;
+}
+
+#mesWindowBottom{
+    background-color: rgba(147, 152, 168, 0.20);
+    text-align: center;
+    padding: 10px 10px 10px 10px
+}
+#single_anysignCanvas{
+	background: url(../image/qianming.png);
+	background-repeat: no-repeat;
+	position: absolute;
+}
+#single_signTitle{
+	color: #E5E5E5;	
+	text-align: center;
+	position: absolute;
+}
+
+#comment_canvas{
+	background: url(../image/chaolu.png);
+	background-repeat: no-repeat;
+	position: absolute;
+}
+#signTitle{
+	color: #E5E5E5;	
+	text-align: center;
+	position: absolute;
+}
+.single_tmpcanvascss{
+	border:1px solid #888888
+}
+
+.button_new{   
+	width: 49.5%;
+	height: 35px;
+    background: #ff722e;
+    text-align: center;
+    line-height: 35px;
+    display: inline;
+    float: left;
+    font-size: 20pt;
+    text-decoration: none;
+    color: #fff;
+}
+.single_tmpcanvascss{
+	border:1px solid #888888
+}
+.tmpcanvascss{
+	border:1px solid #888888
+}
+.btnContainer {
+	text-align: center;
+	font-size: 40pt;
+	width: 100%;
+	clear: both;
+	position: relative;
+	margin-top: 10;
+	/*bottom: 10;*/
+}
+.comment_titlecss {
+	font-size: 20px;
+	clear: both
+}
+			
+			
+.signImagecss {
+	-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;
+	overflow: scroll;
+	border: 1px solid #888888/*rgb(229, 229, 229)*/
+}
+#leftView{
+	float: left;
+    clear: none;
+}
+#pizhuDiv{width:100%; border-top:#D5D5D5 1px solid; clear: both;}
+.pzCss{float:left; text-align: center; border-right: #D5D5D5 1px solid; border-bottom: #D5D5D5 1px solid; color: #D5D5D5; position: relative;}
+.canvasCss{width:100%; height: 100%; position: absolute; left: 0; top: 0; z-index: 2;}
+
+.select_p{
+	color: red;
+}
+.mass_anysign_p{
+	cursor:pointer;
+}

@@ -1,0 +1,48 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "useDefineForClassFields": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "strict": true,
+        "jsx": "preserve",
+        "baseUrl": ".",
+        "sourceMap": true,
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "noImplicitAny": false,
+        "lib": [
+            "esnext",
+            "dom",
+            "dom.iterable",
+            "scripthost",
+            "es2015.promise",
+            "es2015.core"
+        ],
+        "types": [
+            "@dcloudio/types",
+            "vite/client",
+            "node",
+        ],
+        "paths": {
+            "@/*": [
+                "src/*"
+            ]
+        }
+    },
+    "include": [
+        "src/**/*.ts",
+        "src/**/*.d.ts",
+        "src/**/*.tsx",
+        "src/**/*.vue",
+        "preview/**/*.vue",
+        "config/*.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "dist",
+        "docs",
+        "public",
+        "env"
+    ]
+}

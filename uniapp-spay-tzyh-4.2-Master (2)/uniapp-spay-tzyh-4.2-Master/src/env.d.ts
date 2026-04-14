@@ -1,0 +1,21 @@
+/// <reference types="vite/client" />
+
+declare module '*.vue' {
+    import { DefineComponent } from 'vue';
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any, @typescript-eslint/ban-types
+    const component: DefineComponent<{}, {}, any>;
+    export default component;
+}
+
+declare var binddata: any;
+declare var wx: any;
+
+declare interface Window {
+    histroy: any;
+    getTitle: any;
+    androidShare: any;
+    goBack: any;
+    webkit: any;
+    WeixinJSBridge: any;
+    AlipayJSBridge: any;
+}

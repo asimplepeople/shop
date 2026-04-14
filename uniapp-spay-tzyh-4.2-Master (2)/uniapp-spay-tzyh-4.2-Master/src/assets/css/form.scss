@@ -1,0 +1,202 @@
+.m-t-10 {
+    margin-top: 20rpx;
+}
+.box-title {
+    margin: 30rpx 0 16rpx;
+    padding: 0 24rpx;
+    font-size: 28rpx;
+    line-height: 28rpx;
+    color: #666;
+}
+.form-box {
+    padding: 20rpx 0;
+
+    .box {
+        padding: 0 24rpx;
+        background: #fff;
+    }
+    .form-title {
+        font-size: 28rpx;
+        color: #666666;
+        line-height: 28rpx;
+        padding: 16rpx 24rpx;
+    }
+    .form-item {
+        border-bottom: 1rpx solid #ebebeb;
+        &:last-child {
+            border-bottom: none;
+        }
+    }
+    .color-gray {
+        color: #ccc;
+    }
+    ::v-deep .uni-forms-item__inner {
+        padding-bottom: 0;
+    }
+    ::v-deep .uni-forms-item__label {
+        height: 104rpx;
+    }
+    ::v-deep .uni-easyinput__content {
+        min-height: 104rpx;
+    }
+    ::v-deep .input-value {
+        line-height: 104rpx;
+        font-size: 32rpx;
+    }
+    ::v-deep .input-value-border {
+        border: none;
+    }
+    ::v-deep .uni-forms-item__label .label-text {
+        font-size: 32rpx;
+    }
+    ::v-deep .uni-easyinput__content-input {
+        height: 70rpx;
+    }
+    ::v-deep .uni-input-input {
+        font-size: 32rpx;
+    }
+    ::v-deep .uni-easyinput__placeholder-class {
+        font-size: 32rpx;
+    }
+    ::v-deep .uni-error-message {
+        bottom: -5rpx;
+    }
+    ::v-deep .uni-error-message-text {
+        padding-left: 20rpx;
+    }
+    ::v-deep .uniui-bottom {
+        margin-left: 10rpx;
+    }
+
+    ::v-deep .uni-radio-input {
+        width: 32rpx;
+        height: 32rpx;
+        border-radius: 50%;
+        border: 1rpx solid $uni-border-color;
+        padding: 2rpx;
+        background-color: #fff !important;
+        box-sizing: border-box;
+    }
+
+    ::v-deep .uni-radio-input svg {
+        width: 22rpx;
+        height: 22rpx;
+        border-radius: 50%;
+        background-color: $uni-color-base;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    ::v-deep .uni-radio-input svg path {
+        display: none;
+    }
+
+    ::v-deep .is-disabled {
+        background-color: $uni-bg-color-inverse !important;
+    }
+
+    ::v-deep .uni-radio-input.uni-radio-input-disabled {
+        border-color: #d1d1d1 !important;
+    }
+
+    ::v-deep .uni-radio-input.uni-radio-input-disabled svg {
+        background-color: $uni-text-color-disable !important;
+    }
+
+    ::v-deep .form-item .is-input-error-border .placeholder {
+        color: #f29e99 !important;
+    }
+
+    ::v-deep.uni-forms-item-error.picker-form-item .uni-error-message {
+        text-align: right;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .uni-forms-item-error .select-picker .custom-uni-input,
+    .uni-forms-item-error .select-picker .uni-icons {
+        color: #f29e99 !important;
+    }
+
+    .custom-uni-input {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .uni-input {
+        line-height: 104rpx;
+        font-size: 32rpx;
+    }
+    .fee-box {
+        height: 104rpx;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border-bottom: 1rpx solid #f9f9f9;
+        font-size: 32rpx;
+        color: #4d4d4d;
+
+        &.collapse-item-box {
+            width: 300rpx;
+        }
+    }
+    .collapse-item-content {
+        padding: 20rpx 0;
+
+        .text {
+            display: flex;
+            justify-content: space-between;
+            padding-left: 60rpx;
+            font-size: 28rpx;
+            line-height: 60rpx;
+        }
+    }
+    .radio-box {
+        padding: 36rpx 0;
+        uni-radio-group {
+            display: flex;
+        }
+        radio-group {
+            display: flex;
+        }
+        .radio-label {
+            width: 50%;
+            display: inline-block;
+            font-size: 28rpx;
+            color: $uni-text-color-form;
+            line-height: 32rpx;
+            display: flex;
+            align-items: center;
+        }
+    }
+    .placeholder {
+        font-size: 32rpx;
+        color: $uni-text-color-grey;
+        padding-left: 20rpx;
+    }
+    .select-picker {
+        display: flex;
+        height: 100%;
+        justify-content: flex-end;
+    }
+    .date-picker {
+        display: flex;
+        height: 100%;
+        justify-content: flex-start;
+    }
+    .date-picker .custom-uni-input {
+        padding-left: 20rpx;
+    }
+    .date-picker[disabled='true'] .custom-uni-input,
+    .select-picker[disabled='true'] .custom-uni-input,
+    .select-picker[disabled='true'] .uni-icons {
+        color: $uni-text-color-disable !important;
+    }
+    .submit-btn {
+        margin: 80rpx auto 60rpx;
+        width: 89%;
+        height: 96rpx;
+    }
+}

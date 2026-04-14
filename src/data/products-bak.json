@@ -1,0 +1,2220 @@
+[
+  {
+    "id": 1,
+    "modelId": "AMZ-009",
+    "name": "12 个装多用途透明塑料储物箱,用于整理带标签 - 家庭、厨房、浴室、办公室、食品柜柜架收纳箱 - ...",
+    "description": "不含 BPA 耐用厚塑料材质，12 个装多用途透明塑料储物箱,用于整理带标签 - 家庭、厨房、浴室、办公室、食品柜柜架收纳箱 - SOHO 系列、房车、冰箱收纳容器。优质收纳产品，适合家居整理。",
+    "price": 194,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 194
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_002.jpeg",
+      "/shop/assets/products/amazon/amazon_product_002.jpeg",
+      "/shop/assets/products/amazon/amazon_product_002.jpeg",
+      "/shop/assets/products/amazon/amazon_product_002.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.7,
+    "sales": 3791,
+    "info": {
+      "size": "30x30x30cm",
+      "weight": "1.0kg",
+      "color": "黄色",
+      "material": "塑料",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 2,
+    "modelId": "AMZ-010",
+    "name": "4 层可堆叠塑料储物箱,带盖和轮子 - 23 夸脱(约 23.7 升)衣柜收纳和储物,可折叠储物盒,...",
+    "description": "聚乙烯材质，4 层可堆叠塑料储物箱,带盖和轮子 - 23 夸脱(约 23.7 升)衣柜收纳和储物,可折叠储物盒,适用于工艺品、家居、食品储藏室、办公室、宿舍。优质收纳产品，适合家居整理。",
+    "price": 280,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 280
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_003.jpeg",
+      "/shop/assets/products/amazon/amazon_product_003.jpeg",
+      "/shop/assets/products/amazon/amazon_product_003.jpeg",
+      "/shop/assets/products/amazon/amazon_product_003.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.6,
+    "sales": 1898,
+    "info": {
+      "size": "35x25x15cm",
+      "weight": "3.2kg",
+      "color": "白色",
+      "material": "金属",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 3,
+    "modelId": "AMZ-011",
+    "name": "5 件装可堆叠衣柜储物篮 - 可堆叠储物箱,多功能可折叠衣柜收纳器,防水,衣柜橱柜节省空间的帽子储物...",
+    "description": "排名第一材质，5 件装可堆叠衣柜储物篮 - 可堆叠储物箱,多功能可折叠衣柜收纳器,防水,衣柜橱柜节省空间的帽子储物抽屉收纳盒,白色。优质收纳产品，适合家居整理。",
+    "price": 280,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 280
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_004.jpeg",
+      "/shop/assets/products/amazon/amazon_product_004.jpeg",
+      "/shop/assets/products/amazon/amazon_product_004.jpeg",
+      "/shop/assets/products/amazon/amazon_product_004.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.3,
+    "sales": 8099,
+    "info": {
+      "size": "25x25x25cm",
+      "weight": "4.7kg",
+      "color": "粉色",
+      "material": "塑料",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 4,
+    "modelId": "AMZ-012",
+    "name": "6 件装可旋转电线收纳器,弹簧电缆夹 - Lamicall [1s 锁] 电线支架,桌面手机充电器电...",
+    "description": "No.1 旋转电缆夹材质，6 件装可旋转电线收纳器,弹簧电缆夹 - Lamicall [1s 锁] 电线支架,桌面手机充电器电缆管理,床头柜用粘合线整理器,家庭办公室配件。优质收纳产品，适合家居整理。",
+    "price": 79,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 79
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_005.jpeg",
+      "/shop/assets/products/amazon/amazon_product_005.jpeg",
+      "/shop/assets/products/amazon/amazon_product_005.jpeg",
+      "/shop/assets/products/amazon/amazon_product_005.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.8,
+    "sales": 4189,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "1.1kg",
+      "color": "绿色",
+      "material": "陶瓷",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 5,
+    "modelId": "AMZ-013",
+    "name": "8 件装线收纳器 [1s 锁] 弹簧线管理夹 - Lamicall 桌面收纳线夹,粘合电缆夹,手机充...",
+    "description": "ABS 塑料材质，8 件装线收纳器 [1s 锁] 弹簧线管理夹 - Lamicall 桌面收纳线夹,粘合电缆夹,手机充电器线夹,适用于床头柜汽车办公桌配件,白色。优质收纳产品，适合家居整理。",
+    "price": 57,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 57
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_006.jpeg",
+      "/shop/assets/products/amazon/amazon_product_006.jpeg",
+      "/shop/assets/products/amazon/amazon_product_006.jpeg",
+      "/shop/assets/products/amazon/amazon_product_006.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.1,
+    "sales": 2635,
+    "info": {
+      "size": "30x40x50cm",
+      "weight": "0.8kg",
+      "color": "粉色",
+      "material": "布料",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 6,
+    "modelId": "AMZ-014",
+    "name": "Akro-Mils 30130 塑料货架箱,用于车库、壁橱和抽屉整理的重型储物箱,12\" x 6-1...",
+    "description": "塑料材质，Akro-Mils 30130 塑料货架箱,用于车库、壁橱和抽屉整理的重型储物箱,12\" x 6-1/2\" x 4\",红色,12 件装。优质收纳产品，适合家居整理。",
+    "price": 259,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 259
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_007.jpeg",
+      "/shop/assets/products/amazon/amazon_product_007.jpeg",
+      "/shop/assets/products/amazon/amazon_product_007.jpeg",
+      "/shop/assets/products/amazon/amazon_product_007.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.1,
+    "sales": 2365,
+    "info": {
+      "size": "20x30x40cm",
+      "weight": "1.3kg",
+      "color": "黄色",
+      "material": "布料",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 7,
+    "modelId": "AMZ-015",
+    "name": "Akro-Mils 30150 塑料货架箱,用于车库、壁橱和抽屉整理的重型储物箱,30.48 x 2...",
+    "description": "塑料材质，Akro-Mils 30150 塑料货架箱,用于车库、壁橱和抽屉整理的重型储物箱,30.48 x 20.32 x 10.16 厘米,蓝色,12 件装。优质收纳产品，适合家居整理。",
+    "price": 432,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 432
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_008.jpeg",
+      "/shop/assets/products/amazon/amazon_product_008.jpeg",
+      "/shop/assets/products/amazon/amazon_product_008.jpeg",
+      "/shop/assets/products/amazon/amazon_product_008.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.1,
+    "sales": 2562,
+    "info": {
+      "size": "30x40x50cm",
+      "weight": "3.6kg",
+      "color": "蓝色",
+      "material": "布料",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 8,
+    "modelId": "AMZ-016",
+    "name": "Amazon Basics 可重复密封双拉链三明治储物袋,用于食品储存,300 个装(以前为 Sol...",
+    "description": "聚乙烯 (PE)材质，Amazon Basics 可重复密封双拉链三明治储物袋,用于食品储存,300 个装(以前为 Solimo)。优质收纳产品，适合家居整理。",
+    "price": 50,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 50
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_009.jpeg",
+      "/shop/assets/products/amazon/amazon_product_009.jpeg",
+      "/shop/assets/products/amazon/amazon_product_009.jpeg",
+      "/shop/assets/products/amazon/amazon_product_009.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.4,
+    "sales": 2130,
+    "info": {
+      "size": "20x30x40cm",
+      "weight": "1.0kg",
+      "color": "粉色",
+      "material": "布料",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 9,
+    "modelId": "AMZ-017",
+    "name": "15QT 透明药物收纳盒带手柄,塑料药品容器带托盘急救盒空,加厚药品存储收纳盒,多功能药物收纳盒存储",
+    "description": "塑料材质，15QT 透明药物收纳盒带手柄,塑料药品容器带托盘急救盒空,加厚药品存储收纳盒,多功能药物收纳盒存储。优质收纳产品，适合家居整理。",
+    "price": 158,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 158
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_010.jpeg",
+      "/shop/assets/products/amazon/amazon_product_010.jpeg",
+      "/shop/assets/products/amazon/amazon_product_010.jpeg",
+      "/shop/assets/products/amazon/amazon_product_010.jpeg"
+    ],
+    "category": "药品收纳",
+    "rating": 4.2,
+    "sales": 8727,
+    "info": {
+      "size": "25x25x25cm",
+      "weight": "4.1kg",
+      "color": "粉色",
+      "material": "玻璃",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 10,
+    "modelId": "AMZ-018",
+    "name": "化妆收纳盒,带 16 个抽屉,4 个桌面办公用品,办公桌收纳盒,透明配件,防尘储物抽屉和化妆品,珠宝...",
+    "description": "亚克力 - 清晰度、强度、耐用性和耐候性材质，化妆收纳盒,带 16 个抽屉,4 个桌面办公用品,办公桌收纳盒,透明配件,防尘储物抽屉和化妆品,珠宝,笔,文具。优质收纳产品，适合家居整理。",
+    "price": 194,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 194
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_011.jpeg",
+      "/shop/assets/products/amazon/amazon_product_011.jpeg",
+      "/shop/assets/products/amazon/amazon_product_011.jpeg",
+      "/shop/assets/products/amazon/amazon_product_011.jpeg"
+    ],
+    "category": "化妆品收纳",
+    "rating": 4.4,
+    "sales": 3085,
+    "info": {
+      "size": "30x40x50cm",
+      "weight": "2.6kg",
+      "color": "蓝色",
+      "material": "玻璃",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 11,
+    "modelId": "AMZ-019",
+    "name": "Cisily 海绵架适用于厨房水槽,水槽收纳架带高刷架,厨房台面收纳器和收纳必需品,防锈 304 不...",
+    "description": "不锈钢材质，Cisily 海绵架适用于厨房水槽,水槽收纳架带高刷架,厨房台面收纳器和收纳必需品,防锈 304 不锈钢(黑色,9.25 英寸)。优质收纳产品，适合家居整理。",
+    "price": 93,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 93
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_012.jpeg",
+      "/shop/assets/products/amazon/amazon_product_012.jpeg",
+      "/shop/assets/products/amazon/amazon_product_012.jpeg",
+      "/shop/assets/products/amazon/amazon_product_012.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.2,
+    "sales": 1113,
+    "info": {
+      "size": "20x30x40cm",
+      "weight": "4.9kg",
+      "color": "蓝色",
+      "material": "陶瓷",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 12,
+    "modelId": "AMZ-020",
+    "name": "Clear Cabinet Organizer 2 件套,用于厨房食品储藏室收纳和存储,陈列柜架房间...",
+    "description": "PET材质，Clear Cabinet Organizer 2 件套,用于厨房食品储藏室收纳和存储,陈列柜架房间装饰台面桌架,专利调料整理柜。优质收纳产品，适合家居整理。",
+    "price": 187,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 187
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_013.jpeg",
+      "/shop/assets/products/amazon/amazon_product_013.jpeg",
+      "/shop/assets/products/amazon/amazon_product_013.jpeg",
+      "/shop/assets/products/amazon/amazon_product_013.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.5,
+    "sales": 1778,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "4.6kg",
+      "color": "黄色",
+      "material": "塑料",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 13,
+    "modelId": "AMZ-021",
+    "name": "ClearSpace 透明塑料储物箱 – 完美的厨房收纳和储存或食品储藏室存储 – 冰箱收纳盒、食品...",
+    "description": "塑料材质，ClearSpace 透明塑料储物箱 – 完美的厨房收纳和储存或食品储藏室存储 – 冰箱收纳盒、食品储藏室收纳和透明储物箱、橱柜收纳盒。优质收纳产品，适合家居整理。",
+    "price": 180,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 180
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_014.jpeg",
+      "/shop/assets/products/amazon/amazon_product_014.jpeg",
+      "/shop/assets/products/amazon/amazon_product_014.jpeg",
+      "/shop/assets/products/amazon/amazon_product_014.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.6,
+    "sales": 4193,
+    "info": {
+      "size": "30x30x30cm",
+      "weight": "2.1kg",
+      "color": "黑色",
+      "material": "塑料",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 14,
+    "modelId": "AMZ-022",
+    "name": "办公桌收纳盒,带 6 个隔层和 2 个抽屉,塑料化妆收纳盒,桌面存储笔架,学校、家居、办公用品的桌面...",
+    "description": "塑料材质，办公桌收纳盒,带 6 个隔层和 2 个抽屉,塑料化妆收纳盒,桌面存储笔架,学校、家居、办公用品的桌面收纳(白色)。优质收纳产品，适合家居整理。",
+    "price": 57,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 57
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_015.jpeg",
+      "/shop/assets/products/amazon/amazon_product_015.jpeg",
+      "/shop/assets/products/amazon/amazon_product_015.jpeg",
+      "/shop/assets/products/amazon/amazon_product_015.jpeg"
+    ],
+    "category": "化妆品收纳",
+    "rating": 4.7,
+    "sales": 2593,
+    "info": {
+      "size": "25x25x25cm",
+      "weight": "1.9kg",
+      "color": "黄色",
+      "material": "木材",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 15,
+    "modelId": "AMZ-023",
+    "name": "CRAFTSMAN 收纳收纳盒,30 个小抽屉模块化存储系统,易于堆叠(CMST40730),塑料,...",
+    "description": "塑料材质，CRAFTSMAN 收纳收纳盒,30 个小抽屉模块化存储系统,易于堆叠(CMST40730),塑料,黑色,白色。优质收纳产品，适合家居整理。",
+    "price": 115,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 115
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_016.jpeg",
+      "/shop/assets/products/amazon/amazon_product_016.jpeg",
+      "/shop/assets/products/amazon/amazon_product_016.jpeg",
+      "/shop/assets/products/amazon/amazon_product_016.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.7,
+    "sales": 9035,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "4.7kg",
+      "color": "黑色",
+      "material": "塑料",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 16,
+    "modelId": "AMZ-024",
+    "name": "CTIME 3 层药物收纳盒 – 便携式药柜带皮革手柄,空家用急救包",
+    "description": "塑料材质，CTIME 3 层药物收纳盒 – 便携式药柜带皮革手柄,空家用急救包。优质收纳产品，适合家居整理。",
+    "price": 187,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 187
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_017.jpeg",
+      "/shop/assets/products/amazon/amazon_product_017.jpeg",
+      "/shop/assets/products/amazon/amazon_product_017.jpeg",
+      "/shop/assets/products/amazon/amazon_product_017.jpeg"
+    ],
+    "category": "药品收纳",
+    "rating": 4.8,
+    "sales": 9195,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "3.9kg",
+      "color": "绿色",
+      "material": "塑料",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 17,
+    "modelId": "AMZ-025",
+    "name": "EZY DOSE 按钮(7 天)药盒,药物规划师,日常维生素收纳盒,每天上午/下午2次,超大隔层,关...",
+    "description": "塑料材质，EZY DOSE 按钮(7 天)药盒,药物规划师,日常维生素收纳盒,每天上午/下午2次,超大隔层,关节炎友好,使用方便,透明盖子,紫色和蓝色,不含双酚 A。优质收纳产品，适合家居整理。",
+    "price": 50,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 50
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_018.jpeg",
+      "/shop/assets/products/amazon/amazon_product_018.jpeg",
+      "/shop/assets/products/amazon/amazon_product_018.jpeg",
+      "/shop/assets/products/amazon/amazon_product_018.jpeg"
+    ],
+    "category": "药品收纳",
+    "rating": 4.1,
+    "sales": 6522,
+    "info": {
+      "size": "50x30x20cm",
+      "weight": "2.7kg",
+      "color": "粉色",
+      "material": "陶瓷",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 18,
+    "modelId": "AMZ-026",
+    "name": "金属 4 件装磁性香料收纳架,适用于冰箱和烤箱,黑色冰箱收纳盒和存储",
+    "description": "金属材质，金属 4 件装磁性香料收纳架,适用于冰箱和烤箱,黑色冰箱收纳盒和存储。优质收纳产品，适合家居整理。",
+    "price": 115,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 115
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_019.jpeg",
+      "/shop/assets/products/amazon/amazon_product_019.jpeg",
+      "/shop/assets/products/amazon/amazon_product_019.jpeg",
+      "/shop/assets/products/amazon/amazon_product_019.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.8,
+    "sales": 4687,
+    "info": {
+      "size": "40x20x15cm",
+      "weight": "1.7kg",
+      "color": "黄色",
+      "material": "金属",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 19,
+    "modelId": "AMZ-027",
+    "name": "Humble Crew 超大玩具收纳收纳盒,带 16 个可拆卸垃圾桶,白色/蓝色/粉色/紫色 – 大...",
+    "description": "合金钢材质，Humble Crew 超大玩具收纳收纳盒,带 16 个可拆卸垃圾桶,白色/蓝色/粉色/紫色 – 大号玩具存储,适合幼儿,儿童房,游戏室和托儿所 – 现代儿童玩具箱。优质收纳产品，适合家居整理。",
+    "price": 338,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 338
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_020.jpeg",
+      "/shop/assets/products/amazon/amazon_product_020.jpeg",
+      "/shop/assets/products/amazon/amazon_product_020.jpeg",
+      "/shop/assets/products/amazon/amazon_product_020.jpeg"
+    ],
+    "category": "玩具收纳",
+    "rating": 4.8,
+    "sales": 8417,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "3.8kg",
+      "color": "黄色",
+      "material": "陶瓷",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 20,
+    "modelId": "AMZ-028",
+    "name": "3 件装透明可堆叠储物箱带盖磁性门前开可折叠塑料工艺容器大衣柜收纳盒卧室客厅书房儿童玩具 24 夸脱",
+    "description": "塑料材质，3 件装透明可堆叠储物箱带盖磁性门前开可折叠塑料工艺容器大衣柜收纳盒卧室客厅书房儿童玩具 24 夸脱。优质收纳产品，适合家居整理。",
+    "price": 252,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 252
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_021.jpeg",
+      "/shop/assets/products/amazon/amazon_product_021.jpeg",
+      "/shop/assets/products/amazon/amazon_product_021.jpeg",
+      "/shop/assets/products/amazon/amazon_product_021.jpeg"
+    ],
+    "category": "玩具收纳",
+    "rating": 4.4,
+    "sales": 943,
+    "info": {
+      "size": "30x40x50cm",
+      "weight": "0.6kg",
+      "color": "蓝色",
+      "material": "金属",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 21,
+    "modelId": "AMZ-029",
+    "name": "IRIS USA 10.16 厘米 x 15.24 厘米 | 美国制造| 2 件装照片收纳袋和带手柄...",
+    "description": "塑料材质，IRIS USA 10.16 厘米 x 15.24 厘米 | 美国制造| 2 件装照片收纳袋和带手柄的图片存储盒,16 个内盒/容器用于任务、贴纸、Ephemera和抽认卡 - 珍珠色/多色。优质收纳产品，适合家居整理。",
+    "price": 280,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 280
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_022.jpeg",
+      "/shop/assets/products/amazon/amazon_product_022.jpeg",
+      "/shop/assets/products/amazon/amazon_product_022.jpeg",
+      "/shop/assets/products/amazon/amazon_product_022.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.0,
+    "sales": 5277,
+    "info": {
+      "size": "30x30x30cm",
+      "weight": "2.7kg",
+      "color": "黑色",
+      "material": "布料",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 22,
+    "modelId": "AMZ-030",
+    "name": "IRIS USA 54 夸脱可堆叠塑料储物箱带盖,6 件装 - 不含双酚 A,美国制造 - 透视整理...",
+    "description": "塑料材质，IRIS USA 54 夸脱可堆叠塑料储物箱带盖,6 件装 - 不含双酚 A,美国制造 - 透视整理解决方案,闩锁,耐用可嵌套容器,安全拉手 - 透明。优质收纳产品，适合家居整理。",
+    "price": 590,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 590
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_023.jpeg",
+      "/shop/assets/products/amazon/amazon_product_023.jpeg",
+      "/shop/assets/products/amazon/amazon_product_023.jpeg",
+      "/shop/assets/products/amazon/amazon_product_023.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.5,
+    "sales": 4559,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "2.2kg",
+      "color": "蓝色",
+      "material": "木材",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 23,
+    "modelId": "AMZ-031",
+    "name": "IRIS USA 6 夸脱透明收纳盒,不含双酚 A 的塑料可堆叠垃圾桶带盖,收纳鞋子和壁橱架的容器,...",
+    "description": "塑料材质，IRIS USA 6 夸脱透明收纳盒,不含双酚 A 的塑料可堆叠垃圾桶带盖,收纳鞋子和壁橱架的容器,课堂组织教师工具,游戏存储,20 个装。优质收纳产品，适合家居整理。",
+    "price": 230,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 230
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_024.jpeg",
+      "/shop/assets/products/amazon/amazon_product_024.jpeg",
+      "/shop/assets/products/amazon/amazon_product_024.jpeg",
+      "/shop/assets/products/amazon/amazon_product_024.jpeg"
+    ],
+    "category": "鞋类收纳",
+    "rating": 4.1,
+    "sales": 3113,
+    "info": {
+      "size": "20x30x40cm",
+      "weight": "4.2kg",
+      "color": "蓝色",
+      "material": "金属",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 24,
+    "modelId": "AMZ-032",
+    "name": "IRIS USA 密封狗粮储存容器,高达 30 磅(约 13.6 千克),可连接的轮子,适用于狗猫鸟...",
+    "description": "聚丙烯材质，IRIS USA 密封狗粮储存容器,高达 30 磅(约 13.6 千克),可连接的轮子,适用于狗猫鸟和其他宠物食物储存箱,保持新鲜,方便移动,不含双酚 A,海军蓝。优质收纳产品，适合家居整理。",
+    "price": 158,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 158
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_025.jpeg",
+      "/shop/assets/products/amazon/amazon_product_025.jpeg",
+      "/shop/assets/products/amazon/amazon_product_025.jpeg",
+      "/shop/assets/products/amazon/amazon_product_025.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.9,
+    "sales": 3570,
+    "info": {
+      "size": "40x20x15cm",
+      "weight": "4.0kg",
+      "color": "蓝色",
+      "material": "木材",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 25,
+    "modelId": "AMZ-033",
+    "name": "IRIS USA 小零件收纳,美国制造,橱柜,44 个抽屉收纳螺丝、螺母、螺栓、电子产品、五金件、串...",
+    "description": "塑料材质，IRIS USA 小零件收纳,美国制造,橱柜,44 个抽屉收纳螺丝、螺母、螺栓、电子产品、五金件、串珠、工艺品、积木、可堆叠车库存储 – 黑色。优质收纳产品，适合家居整理。",
+    "price": 237,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 237
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_026.jpeg",
+      "/shop/assets/products/amazon/amazon_product_026.jpeg",
+      "/shop/assets/products/amazon/amazon_product_026.jpeg",
+      "/shop/assets/products/amazon/amazon_product_026.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.5,
+    "sales": 4843,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "2.9kg",
+      "color": "蓝色",
+      "material": "塑料",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 26,
+    "modelId": "AMZ-034",
+    "name": "IRIS USA 狗狗食品储存盒,2 件装,每个最多 30 磅(约 13.6 千克),密封保鲜,车轮...",
+    "description": "聚丙烯材质，IRIS USA 狗狗食品储存盒,2 件装,每个最多 30 磅(约 13.6 千克),密封保鲜,车轮可滚动,方便单手打开,美国制造,不含 BPA,透明/黑色。优质收纳产品，适合家居整理。",
+    "price": 208,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 208
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_027.jpeg",
+      "/shop/assets/products/amazon/amazon_product_027.jpeg",
+      "/shop/assets/products/amazon/amazon_product_027.jpeg",
+      "/shop/assets/products/amazon/amazon_product_027.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.3,
+    "sales": 229,
+    "info": {
+      "size": "30x40x50cm",
+      "weight": "2.9kg",
+      "color": "黑色",
+      "material": "木材",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 27,
+    "modelId": "AMZ-035",
+    "name": "IRIS USA 适合 30.48 厘米 x 30.48 厘米纸张,6 件装厚便携塑料剪贴簿纸收纳盒...",
+    "description": "塑料材质，IRIS USA 适合 30.48 厘米 x 30.48 厘米纸张,6 件装厚便携塑料剪贴簿纸收纳盒,带内置手柄,用于艺术工艺用品纱线文件玩具,圆角 - 透明。优质收纳产品，适合家居整理。",
+    "price": 280,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 280
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_028.jpeg",
+      "/shop/assets/products/amazon/amazon_product_028.jpeg",
+      "/shop/assets/products/amazon/amazon_product_028.jpeg",
+      "/shop/assets/products/amazon/amazon_product_028.jpeg"
+    ],
+    "category": "玩具收纳",
+    "rating": 4.6,
+    "sales": 4896,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "0.6kg",
+      "color": "黑色",
+      "material": "木材",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 28,
+    "modelId": "AMZ-036",
+    "name": "透明塑料储物箱 - 6 件装大型食品储藏室收纳器和储物容器 适用于厨房、浴室、水槽下、办公室、壁橱、...",
+    "description": "塑料材质，透明塑料储物箱 - 6 件装大型食品储藏室收纳器和储物容器 适用于厨房、浴室、水槽下、办公室、壁橱、车库、冰柜和零食。优质收纳产品，适合家居整理。",
+    "price": 187,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 187
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_029.jpeg",
+      "/shop/assets/products/amazon/amazon_product_029.jpeg",
+      "/shop/assets/products/amazon/amazon_product_029.jpeg",
+      "/shop/assets/products/amazon/amazon_product_029.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.6,
+    "sales": 3031,
+    "info": {
+      "size": "40x20x15cm",
+      "weight": "0.6kg",
+      "color": "粉色",
+      "material": "玻璃",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 29,
+    "modelId": "AMZ-037",
+    "name": "Kuject X-大号鞋子收纳盒透明塑料可堆叠 12 件装,鞋架和支架替代品,运动鞋容器,玩具收纳箱...",
+    "description": "塑料材质，Kuject X-大号鞋子收纳盒透明塑料可堆叠 12 件装,鞋架和支架替代品,运动鞋容器,玩具收纳箱,入口通道,壁橱,床下,黑色。优质收纳产品，适合家居整理。",
+    "price": 252,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 252
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_030.jpeg",
+      "/shop/assets/products/amazon/amazon_product_030.jpeg",
+      "/shop/assets/products/amazon/amazon_product_030.jpeg",
+      "/shop/assets/products/amazon/amazon_product_030.jpeg"
+    ],
+    "category": "鞋类收纳",
+    "rating": 4.9,
+    "sales": 358,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "0.7kg",
+      "color": "灰色",
+      "material": "金属",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 30,
+    "modelId": "AMZ-038",
+    "name": "LAMU 2 层 Lazy Susan 转盘收纳架 9.25 英寸(约 24.9 厘米)旋转调料架,...",
+    "description": "塑料材质，LAMU 2 层 Lazy Susan 转盘收纳架 9.25 英寸(约 24.9 厘米)旋转调料架,适用于橱柜、厨房、食品柜、台面、浴室、梳妆台、药柜收纳盒,透明。优质收纳产品，适合家居整理。",
+    "price": 57,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 57
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_031.jpeg",
+      "/shop/assets/products/amazon/amazon_product_031.jpeg",
+      "/shop/assets/products/amazon/amazon_product_031.jpeg",
+      "/shop/assets/products/amazon/amazon_product_031.jpeg"
+    ],
+    "category": "药品收纳",
+    "rating": 4.2,
+    "sales": 3259,
+    "info": {
+      "size": "50x30x20cm",
+      "weight": "3.0kg",
+      "color": "黄色",
+      "material": "陶瓷",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 31,
+    "modelId": "AMZ-039",
+    "name": "Lansinoh 母乳储放袋，100件",
+    "description": "低密度聚乙烯 (LDPE)材质，Lansinoh 母乳储放袋，100件。优质收纳产品，适合家居整理。",
+    "price": 79,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 79
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_032.jpeg",
+      "/shop/assets/products/amazon/amazon_product_032.jpeg",
+      "/shop/assets/products/amazon/amazon_product_032.jpeg",
+      "/shop/assets/products/amazon/amazon_product_032.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.3,
+    "sales": 8977,
+    "info": {
+      "size": "50x30x20cm",
+      "weight": "1.7kg",
+      "color": "黄色",
+      "material": "木材",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 32,
+    "modelId": "AMZ-040",
+    "name": "Mind Reader 杯子和调味品站,台面咖啡吧收纳架,带 6 个隔层,杯盖和包装,塑料,黑色",
+    "description": "Plastic, Galvanized Metal, Metal Mesh, Rayon from Bamboo材质，Mind Reader 杯子和调味品站,台面咖啡吧收纳架,带 6 个隔层,杯盖和包装,塑料,黑色。优质收纳产品，适合家居整理。",
+    "price": 108,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 108
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_033.jpeg",
+      "/shop/assets/products/amazon/amazon_product_033.jpeg",
+      "/shop/assets/products/amazon/amazon_product_033.jpeg",
+      "/shop/assets/products/amazon/amazon_product_033.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.8,
+    "sales": 9042,
+    "info": {
+      "size": "30x30x30cm",
+      "weight": "4.7kg",
+      "color": "白色",
+      "material": "布料",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 33,
+    "modelId": "AMZ-041",
+    "name": "Oizeir 透明调料架(2 件装) – 3 层亚克力橱柜收纳架 – 深调料架 – 10.4 x 9...",
+    "description": "塑料材质，Oizeir 透明调料架(2 件装) – 3 层亚克力橱柜收纳架 – 深调料架 – 10.4 x 9.6 x 4 英寸(约 26.9 x 24.9 x 10.1 厘米) – 可容纳调味料和调味品。优质收纳产品，适合家居整理。",
+    "price": 108,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 108
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_034.jpeg",
+      "/shop/assets/products/amazon/amazon_product_034.jpeg",
+      "/shop/assets/products/amazon/amazon_product_034.jpeg",
+      "/shop/assets/products/amazon/amazon_product_034.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.8,
+    "sales": 5892,
+    "info": {
+      "size": "20x30x40cm",
+      "weight": "2.9kg",
+      "color": "绿色",
+      "material": "玻璃",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 34,
+    "modelId": "AMZ-042",
+    "name": "化妆收纳盒带抽屉,绿色梳妆台护肤收纳盒,带把手的储物盒,大型化妆展示盒,适用于梳妆台,浴室工作台",
+    "description": "塑料材质，化妆收纳盒带抽屉,绿色梳妆台护肤收纳盒,带把手的储物盒,大型化妆展示盒,适用于梳妆台,浴室工作台。优质收纳产品，适合家居整理。",
+    "price": 172,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 172
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_035.jpeg",
+      "/shop/assets/products/amazon/amazon_product_035.jpeg",
+      "/shop/assets/products/amazon/amazon_product_035.jpeg",
+      "/shop/assets/products/amazon/amazon_product_035.jpeg"
+    ],
+    "category": "化妆品收纳",
+    "rating": 4.5,
+    "sales": 5072,
+    "info": {
+      "size": "30x30x30cm",
+      "weight": "4.8kg",
+      "color": "黑色",
+      "material": "木材",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 35,
+    "modelId": "AMZ-043",
+    "name": "ProKeeper+ 密封食品储存容器套装 – 透明塑料面粉和糖罐套装,带磁性配件,适用于厨房整理(...",
+    "description": "塑料 有机硅 不锈钢材质，ProKeeper+ 密封食品储存容器套装 – 透明塑料面粉和糖罐套装,带磁性配件,适用于厨房整理(灰色,9 件)。优质收纳产品，适合家居整理。",
+    "price": 396,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 396
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_036.jpeg",
+      "/shop/assets/products/amazon/amazon_product_036.jpeg",
+      "/shop/assets/products/amazon/amazon_product_036.jpeg",
+      "/shop/assets/products/amazon/amazon_product_036.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.3,
+    "sales": 8970,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "4.7kg",
+      "color": "粉色",
+      "material": "金属",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 36,
+    "modelId": "AMZ-044",
+    "name": "Pulseplay 透明药品收纳盒带手柄便携式药柜收纳盒多功能塑料收纳盒,带可拆卸托盘,适用于家庭办...",
+    "description": "塑料材质，Pulseplay 透明药品收纳盒带手柄便携式药柜收纳盒多功能塑料收纳盒,带可拆卸托盘,适用于家庭办公室旅行户外(黄色)。优质收纳产品，适合家居整理。",
+    "price": 136,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 136
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_037.jpeg",
+      "/shop/assets/products/amazon/amazon_product_037.jpeg",
+      "/shop/assets/products/amazon/amazon_product_037.jpeg",
+      "/shop/assets/products/amazon/amazon_product_037.jpeg"
+    ],
+    "category": "药品收纳",
+    "rating": 4.1,
+    "sales": 6875,
+    "info": {
+      "size": "30x40x50cm",
+      "weight": "2.4kg",
+      "color": "白色",
+      "material": "陶瓷",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 37,
+    "modelId": "AMZ-045",
+    "name": "Rubbermaid Brilliance 16 杯密封食品储存盒带盖透明/灰色 - 非常适合食品储...",
+    "description": "塑料材质，Rubbermaid Brilliance 16 杯密封食品储存盒带盖透明/灰色 - 非常适合食品储藏室整理面粉糖和食物储存。优质收纳产品，适合家居整理。",
+    "price": 100,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 100
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_038.jpeg",
+      "/shop/assets/products/amazon/amazon_product_038.jpeg",
+      "/shop/assets/products/amazon/amazon_product_038.jpeg",
+      "/shop/assets/products/amazon/amazon_product_038.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.5,
+    "sales": 8853,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "1.8kg",
+      "color": "蓝色",
+      "material": "玻璃",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 38,
+    "modelId": "AMZ-046",
+    "name": "Rubbermaid Brilliance Tritan 塑料食品储存容器 不含双酚 A 密封盖 非...",
+    "description": "塑料材质，Rubbermaid Brilliance Tritan 塑料食品储存容器 不含双酚 A 密封盖 非常适合午餐准备餐和剩饭 5 件套(3.2 杯)。优质收纳产品，适合家居整理。",
+    "price": 180,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 180
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_039.jpeg",
+      "/shop/assets/products/amazon/amazon_product_039.jpeg",
+      "/shop/assets/products/amazon/amazon_product_039.jpeg",
+      "/shop/assets/products/amazon/amazon_product_039.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.2,
+    "sales": 4698,
+    "info": {
+      "size": "30x40x50cm",
+      "weight": "2.8kg",
+      "color": "黄色",
+      "material": "玻璃",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 39,
+    "modelId": "AMZ-047",
+    "name": "Rubbermaid Brilliance 不含双酚 A 的密封食品储存容器,24 件套,方便准备餐...",
+    "description": "塑料材质，Rubbermaid Brilliance 不含双酚 A 的密封食品储存容器,24 件套,方便准备餐食、午餐和剩菜。优质收纳产品，适合家居整理。",
+    "price": 331,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 331
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_040.jpeg",
+      "/shop/assets/products/amazon/amazon_product_040.jpeg",
+      "/shop/assets/products/amazon/amazon_product_040.jpeg",
+      "/shop/assets/products/amazon/amazon_product_040.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.7,
+    "sales": 8593,
+    "info": {
+      "size": "25x25x25cm",
+      "weight": "4.7kg",
+      "color": "蓝色",
+      "material": "陶瓷",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 40,
+    "modelId": "AMZ-048",
+    "name": "Rubbermaid Brilliance 玻璃保鲜盒 4.7 杯带盖食品容器 3 件套 透明",
+    "description": "玻璃材质，Rubbermaid Brilliance 玻璃保鲜盒 4.7 杯带盖食品容器 3 件套 透明。优质收纳产品，适合家居整理。",
+    "price": 115,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 115
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_041.jpeg",
+      "/shop/assets/products/amazon/amazon_product_041.jpeg",
+      "/shop/assets/products/amazon/amazon_product_041.jpeg",
+      "/shop/assets/products/amazon/amazon_product_041.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.7,
+    "sales": 8579,
+    "info": {
+      "size": "50x30x20cm",
+      "weight": "4.5kg",
+      "color": "灰色",
+      "material": "塑料",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 41,
+    "modelId": "AMZ-049",
+    "name": "Rubbermaid Brilliance 食品储存盒,大号,9.6杯,透明色,3件装",
+    "description": "塑料材质，Rubbermaid Brilliance 食品储存盒,大号,9.6杯,透明色,3件装。优质收纳产品，适合家居整理。",
+    "price": 417,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 417
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_042.jpeg",
+      "/shop/assets/products/amazon/amazon_product_042.jpeg",
+      "/shop/assets/products/amazon/amazon_product_042.jpeg",
+      "/shop/assets/products/amazon/amazon_product_042.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.4,
+    "sales": 9895,
+    "info": {
+      "size": "20x30x40cm",
+      "weight": "2.9kg",
+      "color": "蓝色",
+      "material": "塑料",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 42,
+    "modelId": "AMZ-050",
+    "name": "SAILUN 145 加仑/580 夸脱可折叠和堆叠储物箱,带门和盖子,非常适合毯子存储,枕头收纳盒...",
+    "description": "聚丙烯材质，SAILUN 145 加仑/580 夸脱可折叠和堆叠储物箱,带门和盖子,非常适合毯子存储,枕头收纳盒,卧室壁橱和客厅,黑色 26 英寸宽 x 17 英寸深 x 180 .3 厘米高。优质收纳产品，适合家居整理。",
+    "price": 928,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 928
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_043.jpeg",
+      "/shop/assets/products/amazon/amazon_product_043.jpeg",
+      "/shop/assets/products/amazon/amazon_product_043.jpeg",
+      "/shop/assets/products/amazon/amazon_product_043.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.7,
+    "sales": 3274,
+    "info": {
+      "size": "20x30x40cm",
+      "weight": "2.6kg",
+      "color": "灰色",
+      "material": "塑料",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 43,
+    "modelId": "AMZ-051",
+    "name": "4 件装强力磁性调料架适用于冰箱,多功能磁性架子,带4个挂钩,适用于厨房和浴室整理,黑色",
+    "description": "丙烯腈丁二烯苯乙烯材质，4 件装强力磁性调料架适用于冰箱,多功能磁性架子,带4个挂钩,适用于厨房和浴室整理,黑色。优质收纳产品，适合家居整理。",
+    "price": 79,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 79
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_044.jpeg",
+      "/shop/assets/products/amazon/amazon_product_044.jpeg",
+      "/shop/assets/products/amazon/amazon_product_044.jpeg",
+      "/shop/assets/products/amazon/amazon_product_044.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.6,
+    "sales": 2056,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "0.6kg",
+      "color": "黑色",
+      "material": "玻璃",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 44,
+    "modelId": "AMZ-052",
+    "name": "SNSLXH 便携式透明储物箱 带盖和轮子 24QT 带盖透明储物箱 4层带轮子 可堆叠磁性门 适用...",
+    "description": "塑料材质，SNSLXH 便携式透明储物箱 带盖和轮子 24QT 带盖透明储物箱 4层带轮子 可堆叠磁性门 适用于卧室、客厅、办公室。优质收纳产品，适合家居整理。",
+    "price": 280,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 280
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_045.jpeg",
+      "/shop/assets/products/amazon/amazon_product_045.jpeg",
+      "/shop/assets/products/amazon/amazon_product_045.jpeg",
+      "/shop/assets/products/amazon/amazon_product_045.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.3,
+    "sales": 861,
+    "info": {
+      "size": "25x25x25cm",
+      "weight": "2.7kg",
+      "color": "白色",
+      "material": "金属",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 45,
+    "modelId": "AMZ-053",
+    "name": "Sorbus 亚克力化妆收纳盒套装,7 抽屉梳妆台和台面化妆品存储器,带小和宽隔层,CLear 化妆...",
+    "description": "塑料材质，Sorbus 亚克力化妆收纳盒套装,7 抽屉梳妆台和台面化妆品存储器,带小和宽隔层,CLear 化妆刷,珠宝 - 送给女士和青少年的节日礼物。优质收纳产品，适合家居整理。",
+    "price": 259,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 259
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_046.jpeg",
+      "/shop/assets/products/amazon/amazon_product_046.jpeg",
+      "/shop/assets/products/amazon/amazon_product_046.jpeg",
+      "/shop/assets/products/amazon/amazon_product_046.jpeg"
+    ],
+    "category": "化妆品收纳",
+    "rating": 4.5,
+    "sales": 2723,
+    "info": {
+      "size": "35x25x15cm",
+      "weight": "2.1kg",
+      "color": "黄色",
+      "material": "陶瓷",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 46,
+    "modelId": "AMZ-054",
+    "name": "Sorbus 可堆叠储物箱前开式 - 透明可堆叠储物箱 - 用于储存和整理的食品储藏室 - 厨房用亚...",
+    "description": "塑料材质，Sorbus 可堆叠储物箱前开式 - 透明可堆叠储物箱 - 用于储存和整理的食品储藏室 - 厨房用亚克力可堆叠垃圾桶 - 透明食品储藏室收纳箱(中号 4 件装)。优质收纳产品，适合家居整理。",
+    "price": 252,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 252
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_047.jpeg",
+      "/shop/assets/products/amazon/amazon_product_047.jpeg",
+      "/shop/assets/products/amazon/amazon_product_047.jpeg",
+      "/shop/assets/products/amazon/amazon_product_047.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.0,
+    "sales": 2051,
+    "info": {
+      "size": "25x25x25cm",
+      "weight": "3.4kg",
+      "color": "黄色",
+      "material": "陶瓷",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 47,
+    "modelId": "AMZ-055",
+    "name": "Sterilite 4 件装超锁盒,带盖储物箱,透明塑料,70 夸脱 - 用于壁橱、浴室和办公室的重...",
+    "description": "塑料材质，Sterilite 4 件装超锁盒,带盖储物箱,透明塑料,70 夸脱 - 用于壁橱、浴室和办公室的重型收纳容器。优质收纳产品，适合家居整理。",
+    "price": 468,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 468
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_048.jpeg",
+      "/shop/assets/products/amazon/amazon_product_048.jpeg",
+      "/shop/assets/products/amazon/amazon_product_048.jpeg",
+      "/shop/assets/products/amazon/amazon_product_048.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.5,
+    "sales": 8949,
+    "info": {
+      "size": "30x30x30cm",
+      "weight": "3.5kg",
+      "color": "白色",
+      "material": "陶瓷",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 48,
+    "modelId": "AMZ-056",
+    "name": "Makeup Organizer for Vanity with Brush Holder, Cou...",
+    "description": "丙烯腈-丁二烯-苯乙烯共聚物材质，Makeup Organizer for Vanity with Brush Holder, Countertop Skincare Organizer with 2 Drawers, Spacious Cosmetic Display Case for Perfumes, Eyeshadow Palettes, Nail Polishes。优质收纳产品，适合家居整理。",
+    "price": 201,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 201
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_049.jpeg",
+      "/shop/assets/products/amazon/amazon_product_049.jpeg",
+      "/shop/assets/products/amazon/amazon_product_049.jpeg",
+      "/shop/assets/products/amazon/amazon_product_049.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.3,
+    "sales": 2830,
+    "info": {
+      "size": "25x25x25cm",
+      "weight": "1.8kg",
+      "color": "粉色",
+      "material": "陶瓷",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 49,
+    "modelId": "AMZ-057",
+    "name": "多功能抽出式储物收纳架,水槽下/橱柜收纳和浴室和厨房存储,黑色,12.8英寸(约32.9厘米),2件...",
+    "description": "塑料材质，多功能抽出式储物收纳架,水槽下/橱柜收纳和浴室和厨房存储,黑色,12.8英寸(约32.9厘米),2件装。优质收纳产品，适合家居整理。",
+    "price": 122,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 122
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_050.jpeg",
+      "/shop/assets/products/amazon/amazon_product_050.jpeg",
+      "/shop/assets/products/amazon/amazon_product_050.jpeg",
+      "/shop/assets/products/amazon/amazon_product_050.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.7,
+    "sales": 3335,
+    "info": {
+      "size": "30x40x50cm",
+      "weight": "4.4kg",
+      "color": "蓝色",
+      "material": "布料",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 50,
+    "modelId": "AMZ-058",
+    "name": "Vtopmart 12 件装衣物抽屉隔板,4 英寸(约 10.2 厘米)高 10.2 英寸(约 25...",
+    "description": "塑料材质，Vtopmart 12 件装衣物抽屉隔板,4 英寸(约 10.2 厘米)高 10.2 英寸(约 25.9 厘米)-16.5 英寸(约 41.9 厘米)可调节可扩展梳妆台抽屉收纳盒,用于梳妆台、婴儿服装、内衣、化妆品、化妆品 letries。优质收纳产品，适合家居整理。",
+    "price": 208,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 208
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_051.jpeg",
+      "/shop/assets/products/amazon/amazon_product_051.jpeg",
+      "/shop/assets/products/amazon/amazon_product_051.jpeg",
+      "/shop/assets/products/amazon/amazon_product_051.jpeg"
+    ],
+    "category": "化妆品收纳",
+    "rating": 4.7,
+    "sales": 321,
+    "info": {
+      "size": "35x25x15cm",
+      "weight": "4.8kg",
+      "color": "黑色",
+      "material": "塑料",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 51,
+    "modelId": "AMZ-059",
+    "name": "Vtopmart 25 件透明塑料抽屉收纳盒套装,4 种尺寸多功能浴室和梳妆台抽屉收纳托盘,化妆品、...",
+    "description": "塑料材质，Vtopmart 25 件透明塑料抽屉收纳盒套装,4 种尺寸多功能浴室和梳妆台抽屉收纳托盘,化妆品、卧室、厨房小工具餐具和办公室储物箱。优质收纳产品，适合家居整理。",
+    "price": 115,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 115
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_052.jpeg",
+      "/shop/assets/products/amazon/amazon_product_052.jpeg",
+      "/shop/assets/products/amazon/amazon_product_052.jpeg",
+      "/shop/assets/products/amazon/amazon_product_052.jpeg"
+    ],
+    "category": "化妆品收纳",
+    "rating": 4.7,
+    "sales": 3942,
+    "info": {
+      "size": "25x25x25cm",
+      "weight": "1.5kg",
+      "color": "粉色",
+      "material": "塑料",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 52,
+    "modelId": "AMZ-060",
+    "name": "Vtopmart 3 层护肤化妆收纳盒,带抽屉,适用于梳妆台和浴室台面,大号化妆品收纳盒,带防滑底座",
+    "description": "—材质，Vtopmart 3 层护肤化妆收纳盒,带抽屉,适用于梳妆台和浴室台面,大号化妆品收纳盒,带防滑底座。优质收纳产品，适合家居整理。",
+    "price": 108,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 108
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_053.jpeg",
+      "/shop/assets/products/amazon/amazon_product_053.jpeg",
+      "/shop/assets/products/amazon/amazon_product_053.jpeg",
+      "/shop/assets/products/amazon/amazon_product_053.jpeg"
+    ],
+    "category": "化妆品收纳",
+    "rating": 4.1,
+    "sales": 6365,
+    "info": {
+      "size": "25x25x25cm",
+      "weight": "4.0kg",
+      "color": "蓝色",
+      "material": "陶瓷",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 53,
+    "modelId": "AMZ-061",
+    "name": "Vtopmart 4 件装大号可堆叠储物抽屉,可轻松组装亚克力浴室壁橱下收纳器和储物空间,适用于厨房...",
+    "description": "塑料材质，Vtopmart 4 件装大号可堆叠储物抽屉,可轻松组装亚克力浴室壁橱下收纳器和储物空间,适用于厨房橱柜、食品储藏室、化妆品、药品整理的塑料箱。优质收纳产品，适合家居整理。",
+    "price": 244,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 244
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_054.jpeg",
+      "/shop/assets/products/amazon/amazon_product_054.jpeg",
+      "/shop/assets/products/amazon/amazon_product_054.jpeg",
+      "/shop/assets/products/amazon/amazon_product_054.jpeg"
+    ],
+    "category": "化妆品收纳",
+    "rating": 4.6,
+    "sales": 3085,
+    "info": {
+      "size": "35x25x15cm",
+      "weight": "3.7kg",
+      "color": "粉色",
+      "material": "布料",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 54,
+    "modelId": "AMZ-062",
+    "name": "Vtopmart 4 件装小号透明可堆叠储物抽屉,亚克力浴室化妆收纳盒,塑料储物箱适用于梳妆台、水槽...",
+    "description": "塑料材质，Vtopmart 4 件装小号透明可堆叠储物抽屉,亚克力浴室化妆收纳盒,塑料储物箱适用于梳妆台、水槽下、厨房橱柜、食品储藏室、家庭组织。优质收纳产品，适合家居整理。",
+    "price": 151,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 151
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_055.jpeg",
+      "/shop/assets/products/amazon/amazon_product_055.jpeg",
+      "/shop/assets/products/amazon/amazon_product_055.jpeg",
+      "/shop/assets/products/amazon/amazon_product_055.jpeg"
+    ],
+    "category": "化妆品收纳",
+    "rating": 4.2,
+    "sales": 6811,
+    "info": {
+      "size": "25x25x25cm",
+      "weight": "3.7kg",
+      "color": "白色",
+      "material": "木材",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 55,
+    "modelId": "AMZ-063",
+    "name": "Vtopmart 4 件装浴室收纳架,2 层透明水槽下收纳柜,橱柜抽屉箱,抽出式收纳柜,带食品柜,厨...",
+    "description": "塑料材质，Vtopmart 4 件装浴室收纳架,2 层透明水槽下收纳柜,橱柜抽屉箱,抽出式收纳柜,带食品柜,厨房。优质收纳产品，适合家居整理。",
+    "price": 230,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 230
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_056.jpeg",
+      "/shop/assets/products/amazon/amazon_product_056.jpeg",
+      "/shop/assets/products/amazon/amazon_product_056.jpeg",
+      "/shop/assets/products/amazon/amazon_product_056.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.8,
+    "sales": 7693,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "1.3kg",
+      "color": "灰色",
+      "material": "塑料",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 56,
+    "modelId": "AMZ-064",
+    "name": "Vtopmart 可堆叠储物抽屉 5 件套,透明塑料收纳箱 适用于婴儿奶瓶、美容用品存储 非常适合厨...",
+    "description": "塑料材质，Vtopmart 可堆叠储物抽屉 5 件套,透明塑料收纳箱 适用于婴儿奶瓶、美容用品存储 非常适合厨房台面、梳妆台、浴室、橱柜、食品储藏柜。优质收纳产品，适合家居整理。",
+    "price": 316,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 316
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_057.jpeg",
+      "/shop/assets/products/amazon/amazon_product_057.jpeg",
+      "/shop/assets/products/amazon/amazon_product_057.jpeg",
+      "/shop/assets/products/amazon/amazon_product_057.jpeg"
+    ],
+    "category": "食品收纳",
+    "rating": 4.6,
+    "sales": 8619,
+    "info": {
+      "size": "35x25x15cm",
+      "weight": "2.0kg",
+      "color": "白色",
+      "material": "布料",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 57,
+    "modelId": "AMZ-065",
+    "name": "Vtopmart 透明办公桌收纳盒,4 层组装桌面文件收纳盒,带抽屉,办公桌收纳办公用品",
+    "description": "塑料材质，Vtopmart 透明办公桌收纳盒,4 层组装桌面文件收纳盒,带抽屉,办公桌收纳办公用品。优质收纳产品，适合家居整理。",
+    "price": 230,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 230
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_058.jpeg",
+      "/shop/assets/products/amazon/amazon_product_058.jpeg",
+      "/shop/assets/products/amazon/amazon_product_058.jpeg",
+      "/shop/assets/products/amazon/amazon_product_058.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.6,
+    "sales": 5378,
+    "info": {
+      "size": "40x20x15cm",
+      "weight": "2.3kg",
+      "color": "白色",
+      "material": "金属",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 58,
+    "modelId": "AMZ-066",
+    "name": "4 层塑料储物箱带盖 23 夸脱(约 23 升),带轮子的可堆叠储物容器,折叠储物盒,可堆叠储物箱,...",
+    "description": "硬质PP--360° 可旋转可锁定车轮,磁性门,半透明可视门材质，4 层塑料储物箱带盖 23 夸脱(约 23 升),带轮子的可堆叠储物容器,折叠储物盒,可堆叠储物箱,收纳和储物空间,适用于客厅、办公室、宿舍。优质收纳产品，适合家居整理。",
+    "price": 223,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 223
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_059.jpeg",
+      "/shop/assets/products/amazon/amazon_product_059.jpeg",
+      "/shop/assets/products/amazon/amazon_product_059.jpeg",
+      "/shop/assets/products/amazon/amazon_product_059.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.6,
+    "sales": 263,
+    "info": {
+      "size": "30x40x50cm",
+      "weight": "2.3kg",
+      "color": "黑色",
+      "material": "金属",
+      "package": "无纺布袋",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 59,
+    "modelId": "AMZ-067",
+    "name": "YKLSLH 4 托盘纸收纳盒信纸托盘 - 亚克力桌面文件整理器,可堆叠透明纸架分类器办公室整理信件...",
+    "description": "塑料材质，YKLSLH 4 托盘纸收纳盒信纸托盘 - 亚克力桌面文件整理器,可堆叠透明纸架分类器办公室整理信件/A4,办公室文件,iPad 书籍笔记等。优质收纳产品，适合家居整理。",
+    "price": 129,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 129
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_060.jpeg",
+      "/shop/assets/products/amazon/amazon_product_060.jpeg",
+      "/shop/assets/products/amazon/amazon_product_060.jpeg",
+      "/shop/assets/products/amazon/amazon_product_060.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.4,
+    "sales": 3573,
+    "info": {
+      "size": "50x30x20cm",
+      "weight": "2.5kg",
+      "color": "灰色",
+      "material": "布料",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 60,
+    "modelId": "AMZ-068",
+    "name": "带轮子的床下储物容器大号床下鞋毛毯衣服玩具储物抽屉适用于大学宿舍卧室托儿所组织(黑色 2 件装,高 ...",
+    "description": "盖子:塑料 + 容器:无纺布 + 框架:铁材质，带轮子的床下储物容器大号床下鞋毛毯衣服玩具储物抽屉适用于大学宿舍卧室托儿所组织(黑色 2 件装,高 7.5 英寸(91.4 厘米 x 42.2 厘米 x 19.0 厘米 cm))。优质收纳产品，适合家居整理。",
+    "price": 259,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 259
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_061.jpeg",
+      "/shop/assets/products/amazon/amazon_product_061.jpeg",
+      "/shop/assets/products/amazon/amazon_product_061.jpeg",
+      "/shop/assets/products/amazon/amazon_product_061.jpeg"
+    ],
+    "category": "鞋类收纳",
+    "rating": 4.2,
+    "sales": 4205,
+    "info": {
+      "size": "20x30x40cm",
+      "weight": "3.5kg",
+      "color": "蓝色",
+      "material": "玻璃",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 61,
+    "modelId": "AMZ-069",
+    "name": "旋转化妆收纳盒,带刷架,化妆品存储收纳盒,大型旋转化妆护肤收纳盒,台面化妆香水收纳盒,乳液展示盒象牙...",
+    "description": "塑料材质，旋转化妆收纳盒,带刷架,化妆品存储收纳盒,大型旋转化妆护肤收纳盒,台面化妆香水收纳盒,乳液展示盒象牙白。优质收纳产品，适合家居整理。",
+    "price": 93,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 93
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_062.jpeg",
+      "/shop/assets/products/amazon/amazon_product_062.jpeg",
+      "/shop/assets/products/amazon/amazon_product_062.jpeg",
+      "/shop/assets/products/amazon/amazon_product_062.jpeg"
+    ],
+    "category": "化妆品收纳",
+    "rating": 4.2,
+    "sales": 235,
+    "info": {
+      "size": "40x20x15cm",
+      "weight": "5.0kg",
+      "color": "黑色",
+      "material": "塑料",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 62,
+    "modelId": "AMZ-070",
+    "name": "浴室柜台收纳和储物空间,7 槽可拆卸牙刷架,适用于浴室,防滑电动牙刷和牙膏架台面梳妆台收纳配件,适合...",
+    "description": "塑料材质，浴室柜台收纳和储物空间,7 槽可拆卸牙刷架,适用于浴室,防滑电动牙刷和牙膏架台面梳妆台收纳配件,适合成人儿童。优质收纳产品，适合家居整理。",
+    "price": 64,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 64
+      }
+    ],
+    "images": [
+      "/shop/assets/products/amazon/amazon_product_063.jpeg",
+      "/shop/assets/products/amazon/amazon_product_063.jpeg",
+      "/shop/assets/products/amazon/amazon_product_063.jpeg",
+      "/shop/assets/products/amazon/amazon_product_063.jpeg"
+    ],
+    "category": "收纳",
+    "rating": 4.5,
+    "sales": 9695,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "2.0kg",
+      "color": "绿色",
+      "material": "塑料",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 63,
+    "modelId": "SOFA-001",
+    "name": "极简现代沙发",
+    "description": "采用优质面料，简约设计，舒适耐用，适合现代家居风格",
+    "price": 2999,
+    "sizes": [
+      {
+        "size": "双人",
+        "price": 2999
+      },
+      {
+        "size": "三人",
+        "price": 3999
+      },
+      {
+        "size": "四人",
+        "price": 4999
+      }
+    ],
+    "images": [
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimalist%20modern%20sofa%20in%20light%20gray%2C%20front%20view%2C%20clean%20lines%2C%20modern%20living%20room&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimalist%20modern%20sofa%20in%20light%20gray%2C%20side%20view%2C%20clean%20lines%2C%20modern%20living%20room&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimalist%20modern%20sofa%20in%20light%20gray%2C%20corner%20view%2C%20clean%20lines%2C%20modern%20living%20room&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimalist%20modern%20sofa%20in%20light%20gray%2C%20back%20view%2C%20clean%20lines%2C%20modern%20living%20room&image_size=landscape_16_9"
+    ],
+    "category": "家具",
+    "rating": 4.8,
+    "sales": 8064,
+    "info": {
+      "size": "30x40x50cm",
+      "weight": "3.2kg",
+      "color": "黑色",
+      "material": "塑料",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 64,
+    "modelId": "TABLE-002",
+    "name": "北欧风格餐桌",
+    "description": "实木材质，自然纹理，简约大方，适合家庭用餐",
+    "price": 1899,
+    "sizes": [
+      {
+        "size": "120cm",
+        "price": 1899
+      },
+      {
+        "size": "140cm",
+        "price": 2299
+      },
+      {
+        "size": "160cm",
+        "price": 2699
+      }
+    ],
+    "images": [
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=nordic%20style%20dining%20table%20with%20wooden%20legs%2C%20white%20tabletop%2C%20modern%20dining%20room&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=nordic%20style%20dining%20table%20with%20wooden%20legs%2C%20white%20tabletop%2C%20side%20view%2C%20modern%20dining%20room&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=nordic%20style%20dining%20table%20with%20wooden%20legs%2C%20white%20tabletop%2C%20top%20view%2C%20modern%20dining%20room&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=nordic%20style%20dining%20table%20with%20wooden%20legs%2C%20white%20tabletop%2C%20corner%20view%2C%20modern%20dining%20room&image_size=landscape_16_9"
+    ],
+    "category": "家具",
+    "rating": 4.6,
+    "sales": 2322,
+    "info": {
+      "size": "40x20x15cm",
+      "weight": "4.7kg",
+      "color": "白色",
+      "material": "木材",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 65,
+    "modelId": "LAMP-003",
+    "name": "智能台灯",
+    "description": "触控调节，无级调光，节能省电，适合卧室和书房",
+    "price": 299,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 299
+      },
+      {
+        "size": "Pro版",
+        "price": 399
+      }
+    ],
+    "images": [
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=smart%20desk%20lamp%20with%20touch%20controls%2C%20modern%20design%2C%20minimalist%20style&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=smart%20desk%20lamp%20with%20touch%20controls%2C%20side%20view%2C%20modern%20design&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=smart%20desk%20lamp%20with%20touch%20controls%2C%20top%20view%2C%20modern%20design&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=smart%20desk%20lamp%20with%20touch%20controls%2C%20close%20up%2C%20modern%20design&image_size=landscape_16_9"
+    ],
+    "category": "灯具",
+    "rating": 4.7,
+    "sales": 8315,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "2.4kg",
+      "color": "粉色",
+      "material": "塑料",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 66,
+    "modelId": "CLOCK-004",
+    "name": "简约挂钟",
+    "description": "静音设计，精准计时，简约美观，适合各种家居风格",
+    "price": 129,
+    "sizes": [
+      {
+        "size": "30cm",
+        "price": 129
+      },
+      {
+        "size": "40cm",
+        "price": 169
+      }
+    ],
+    "images": [
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimalist%20wall%20clock%2C%20clean%20design%2C%20white%20face%2C%20black%20hands%2C%20modern%20living%20room&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimalist%20wall%20clock%2C%20side%20view%2C%20clean%20design%2C%20modern%20living%20room&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimalist%20wall%20clock%2C%20close%20up%2C%20clean%20design%2C%20modern%20living%20room&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimalist%20wall%20clock%2C%20installed%20on%20wall%2C%20clean%20design%2C%20modern%20living%20room&image_size=landscape_16_9"
+    ],
+    "category": "装饰品",
+    "rating": 4.5,
+    "sales": 7453,
+    "info": {
+      "size": "20x30x40cm",
+      "weight": "0.6kg",
+      "color": "粉色",
+      "material": "玻璃",
+      "package": "白盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 67,
+    "modelId": "CUSHION-005",
+    "name": "舒适靠枕",
+    "description": "优质填充物，柔软舒适，多种颜色可选",
+    "price": 89,
+    "sizes": [
+      {
+        "size": "40x40cm",
+        "price": 89
+      },
+      {
+        "size": "50x50cm",
+        "price": 109
+      }
+    ],
+    "images": [
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=comfortable%20cushion%20with%20soft%20fabric%2C%20minimalist%20design%2C%20light%20gray%20color&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=comfortable%20cushion%20with%20soft%20fabric%2C%20side%20view%2C%20minimalist%20design&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=comfortable%20cushion%20with%20soft%20fabric%2C%20close%20up%2C%20minimalist%20design&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=comfortable%20cushion%20with%20soft%20fabric%2C%20on%20sofa%2C%20minimalist%20design&image_size=landscape_16_9"
+    ],
+    "category": "家居用品",
+    "rating": 4.4,
+    "sales": 6110,
+    "info": {
+      "size": "20x30x40cm",
+      "weight": "1.2kg",
+      "color": "绿色",
+      "material": "金属",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 68,
+    "modelId": "ART-006",
+    "name": "现代艺术装饰画",
+    "description": "抽象艺术风格，高品质印刷，简约时尚",
+    "price": 399,
+    "sizes": [
+      {
+        "size": "40x60cm",
+        "price": 399
+      },
+      {
+        "size": "60x90cm",
+        "price": 599
+      },
+      {
+        "size": "80x120cm",
+        "price": 899
+      }
+    ],
+    "images": [
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20abstract%20art%20painting%2C%20minimalist%20design%2C%20neutral%20colors%2C%20framed%20on%20wall&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20abstract%20art%20painting%2C%20side%20view%2C%20minimalist%20design%2C%20framed&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20abstract%20art%20painting%2C%20close%20up%2C%20minimalist%20design&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20abstract%20art%20painting%2C%20in%20modern%20living%20room%2C%20framed%20on%20wall&image_size=landscape_16_9"
+    ],
+    "category": "装饰品",
+    "rating": 4.9,
+    "sales": 456,
+    "info": {
+      "size": "45x35x25cm",
+      "weight": "3.2kg",
+      "color": "黑色",
+      "material": "金属",
+      "package": "牛皮纸盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 69,
+    "modelId": "STORAGE-007",
+    "name": "多功能收纳盒",
+    "description": "分层设计，收纳有序，节省空间",
+    "price": 159,
+    "sizes": [
+      {
+        "size": "小号",
+        "price": 159
+      },
+      {
+        "size": "中号",
+        "price": 199
+      },
+      {
+        "size": "大号",
+        "price": 249
+      }
+    ],
+    "images": [
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=multi-functional%20storage%20box%2C%20minimalist%20design%2C%20light%20gray%20color%2C%20multiple%20compartments&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=multi-functional%20storage%20box%2C%20side%20view%2C%20minimalist%20design%2C%20multiple%20compartments&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=multi-functional%20storage%20box%2C%20open%20view%2C%20minimalist%20design%2C%20multiple%20compartments&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=multi-functional%20storage%20box%2C%20in%20modern%20home%2C%20minimalist%20design&image_size=landscape_16_9"
+    ],
+    "category": "家居用品",
+    "rating": 4.3,
+    "sales": 4229,
+    "info": {
+      "size": "50x30x20cm",
+      "weight": "2.6kg",
+      "color": "绿色",
+      "material": "塑料",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  },
+  {
+    "id": 70,
+    "modelId": "FLOORLAMP-008",
+    "name": "简约落地灯",
+    "description": "现代设计，光线柔和，适合客厅和卧室",
+    "price": 499,
+    "sizes": [
+      {
+        "size": "标准版",
+        "price": 499
+      },
+      {
+        "size": "智能版",
+        "price": 699
+      }
+    ],
+    "images": [
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimalist%20floor%20lamp%2C%20modern%20design%2C%20sleek%20metal%20stand%2C%20white%20shade&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimalist%20floor%20lamp%2C%20side%20view%2C%20modern%20design%2C%20sleek%20metal%20stand&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimalist%20floor%20lamp%2C%20close%20up%2C%20modern%20design%2C%20white%20shade&image_size=landscape_16_9",
+      "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimalist%20floor%20lamp%2C%20in%20modern%20living%20room%2C%20modern%20design&image_size=landscape_16_9"
+    ],
+    "category": "灯具",
+    "rating": 4.6,
+    "sales": 1101,
+    "info": {
+      "size": "20x30x40cm",
+      "weight": "3.8kg",
+      "color": "黄色",
+      "material": "玻璃",
+      "package": "彩盒",
+      "origin": "中国",
+      "warranty": "1年"
+    }
+  }
+]

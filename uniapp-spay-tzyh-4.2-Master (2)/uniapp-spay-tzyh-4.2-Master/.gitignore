@@ -1,0 +1,11 @@
+node_modules
+node_modules.zip
+.DS_Store
+dist
+dist-ssr
+*.local
+stats.html
+.hbuilderx
+.vscode
+.idea
+build

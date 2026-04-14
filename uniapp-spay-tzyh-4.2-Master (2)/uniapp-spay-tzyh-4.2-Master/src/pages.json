@@ -1,0 +1,246 @@
+{
+    "pages": [
+        {
+            "path": "pages/index/index",
+            "aliasPath": "/",
+            "name": "index",
+            "style": {
+                "navigationBarTitleText": "台行微服务"
+            }
+        }
+    ],
+    "easycom": {
+        "autoscan": true,
+        "custom": {
+            "^uni-(.*)": "@dcloudio/uni-ui/lib/uni-$1/uni-$1.vue"
+        }
+    },
+    "globalStyle": {
+        "usingComponents": {},
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "",
+        "navigationBarBackgroundColor": "#FFFFFF",
+        "backgroundColor": "#F9F9F9",
+        "navigationStyle": "default"
+    },
+    "subPackages": [
+        {
+            "root": "pages/mechant",
+            "pages": [
+                {
+                    "path": "scanQr",
+                    "aliasPath": "/scanQr",
+                    "name": "",
+                    "style": {
+                        "navigationBarTitleText": ""
+                    }
+                }
+            ]
+        },
+        {
+            "root": "pages/payment",
+            "pages": [
+                {
+                    "path": "payment",
+                    "aliasPath": "/payment/payment",
+                    "name": "payment",
+                    "style": {
+                        "navigationBarTitleText": "向商户付款",
+                        "backgroundColorTop": "#fff",
+                        "backgroundColor": "#fff",
+                        "backgroundColorBottom": "#fff"
+                    }
+                },
+                {
+                    "path": "excess",
+                    "aliasPath": "/payment/excess",
+                    "name": "excess",
+                    "style": {
+                        "navigationBarTitleText": "向商户付款",
+                        "backgroundColorTop": "#fff",
+                        "backgroundColor": "#fff",
+                        "backgroundColorBottom": "#fff"
+                    }
+                },
+                {
+                    "path": "pay-fail",
+                    "aliasPath": "/payment/pay-fail",
+                    "name": "pay-fail",
+                    "style": {
+                        "navigationBarTitleText": "支付失败",
+                        "backgroundColorTop": "#fff",
+                        "backgroundColor": "#fff",
+                        "backgroundColorBottom": "#fff"
+                    }
+                },
+                {
+                    "path": "sms-code",
+                    "aliasPath": "/payment/sms-code",
+                    "name": "sms-code",
+                    "style": {
+                        "navigationBarTitleText": "请输入短信验证码",
+                        "backgroundColorTop": "#fff",
+                        "backgroundColorBottom": "#fff"
+                    }
+                },
+                {
+                    "path": "bind-result",
+                    "aliasPath": "/payment/bind-result",
+                    "name": "bind-result",
+                    "style": {
+                        "navigationBarTitleText": "",
+                        "backgroundColorTop": "#fff",
+                        "backgroundColorBottom": "#fff"
+                    }
+                },
+                {
+                    "path": "pay-result",
+                    "aliasPath": "/payment/pay-result",
+                    "name": "pay-result",
+                    "style": {
+                        "navigationBarTitleText": "支付成功",
+                        "backgroundColorTop": "#fff",
+                        "backgroundColorBottom": "#fff"
+                    }
+                },
+                {
+                    "path": "add-card",
+                    "aliasPath": "/payment/add-card",
+                    "name": "add-card",
+                    "style": {
+                        "navigationBarTitleText": "添加银行卡",
+                        "app-plus": {
+                            "softinputMode": "adjustPan",
+                            "backgroundColorTop": "#fff",
+                            "backgroundColorBottom": "#fff"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "root": "pages/subsidy",
+            "pages": [
+                {
+                    "path": "home",
+                    "aliasPath": "/home",
+                    "name": "subsidy-home",
+                    "style": {
+                        "navigationBarTitleText": "手续费减免"
+                    }
+                },
+                {
+                    "path": "list",
+                    "aliasPath": "/list",
+                    "name": "subsidy-list",
+                    "style": {
+                        "navigationBarTitleText": "手续费减免历史记录"
+                    }
+                }
+            ]
+        },
+        {
+            "root": "pages/finance",
+            "pages": [
+                {
+                    "path": "product",
+                    "aliasPath": "/product",
+                    "name": "finance-product",
+                    "style": {
+                        "navigationBarTitleText": "理财"
+                    },
+                    "onReachBottomDistance": 0
+                }
+            ]
+        },
+        {
+            "root": "pages/merchantBinding",
+            "pages": [
+                {
+                    "path": "authorization",
+                    "aliasPath": "/merchantBinding/authorization",
+                    "name": "merchant-authorization",
+                    "style": {
+                        "navigationBarTitleText": "商户授权"
+                    }
+                },
+                {
+                    "path": "binding",
+                    "aliasPath": "/merchantBinding/binding",
+                    "name": "merchant-binding",
+                    "style": {
+                        "navigationBarTitleText": "商户绑定"
+                    }
+                },
+                {
+                    "path": "result",
+                    "aliasPath": "/merchantBinding/result",
+                    "name": "merchant-result",
+                    "style": {
+                        "navigationBarTitleText": "绑定结果"
+                    }
+                }
+            ]
+        },
+        {
+            "root": "pages/feeWaiver/taizhou",
+            "pages": [
+                {
+                    "path": "list",
+                    "aliasPath": "/list",
+                    "name": "feeWaiver-taizhou-list",
+                    "style": {
+                        "navigationBarTitleText": "商户手续费减免明细"
+                    },
+                    "onReachBottomDistance": 0
+                },
+                {
+                    "path": "activity",
+                    "aliasPath": "/activity",
+                    "name": "feeWaiver-taizhou-activity",
+                    "style": {
+                        "navigationBarTitleText": "商户手续费减免"
+                    },
+                    "onReachBottomDistance": 0
+                }
+            ]
+        },
+        {
+            "root": "pages/expiredCertificates",
+            "pages": [
+                {
+                    "path": "upload",
+                    "aliasPath": "/upload",
+                    "name": "expiredCertificates-upload",
+                    "style": {
+                        "navigationBarTitleText": "更新证件信息"
+                    },
+                    "onReachBottomDistance": 0
+                },
+                {
+                    "path": "certificates-info",
+                    "aliasPath": "/certificates-info",
+                    "name": "expiredCertificates-certificates-info",
+                    "style": {
+                        "navigationBarTitleText": "更新证件信息"
+                    },
+                    "onReachBottomDistance": 0
+                }
+            ]
+        },
+        {
+            "root": "pages/trade",
+            "pages": [
+                {
+                    "path": "detail",
+                    "aliasPath": "/detail",
+                    "name": "tradeDetail",
+                    "style": {
+                        "navigationBarTitleText": "交易明细"
+                    },
+                    "onReachBottomDistance": 0
+                }
+            ]
+        }
+    ]
+}

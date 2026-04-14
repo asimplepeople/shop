@@ -1,0 +1,9 @@
+@Library("spLibrary") _
+npmPipelineV2 {
+   cmd = ' npm install && npm run build qsbank '
+
+    isBaseImage=true
+    dockerPath='/app/webapps.sp'
+    extraDockerfile="ENV EXT_TOMCAT_HOST_CONTEXT='<Context docBase=\"/app/webapps.sp/spayh5\" path=\"/spayh5\" reloadable=\"true\"/> <Context docBase=\"/app/webapps.sp/webapp\" path=\"webapp\" reloadable=\"true\" />'"
+
+}
